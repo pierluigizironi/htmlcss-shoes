@@ -42,6 +42,14 @@ img {
     margin: 0 auto;
 }
 
+/* Nav */
+
+nav {
+    position: fixed;
+    display: inline-block;
+    z-index: 1;
+}
+
 /* Shoes section */
 
 .shoes-page {
@@ -68,3 +76,4 @@ img {
 #converse-shoes {
     background-color: #FCFF00;
 }
+
