@@ -17,15 +17,22 @@ main {
     font-family: 'Modak', cursive;
 }
 
-#jeans-shoes h1 {
+h1 {
     font-weight: 300;
-    color: #FCFF00;
     font-size: 30px;
 }
 
 img {
     width: 400px;
     height: 300px;
+}
+
+.yellow-title {
+    color: #FCFF00;
+}
+
+.green-title {
+    color: #008000;
 }
 
 /* Utilities */
@@ -52,4 +59,12 @@ img {
 
 #jeans-shoes {
     background-color: #FD0000;
+}
+
+#tommy-shoes {
+    background-color: #008000;
+}
+
+#converse-shoes {
+    background-color: #FCFF00;
 }
